@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashut\\OneDrive\\Documents\\360-ManagementSystem\\backend\\EMS.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2A8B20-8EF2-40B1-92CC-3CC7D944A805}|..\\EMS.Infrastructure\\EMS.Infrastructure.csproj|c:\\users\\ashut\\onedrive\\documents\\360-managementsystem\\backend\\ems.infrastructure\\ems.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2A8B20-8EF2-40B1-92CC-3CC7D944A805}|..\\EMS.Infrastructure\\EMS.Infrastructure.csproj|c:\\users\\ashut\\onedrive\\documents\\360-managementsystem\\backend\\ems.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBE4DF3-EAE1-4011-AB18-00956AC858A7}|..\\EMS.Domain\\EMS.Domain.csproj|c:\\users\\ashut\\onedrive\\documents\\360-managementsystem\\backend\\ems.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E4C648-D48C-42DF-B214-6DCC60B2B8B7}|..\\EMS.Application\\EMS.Application.csproj|c:\\users\\ashut\\onedrive\\documents\\360-managementsystem\\backend\\ems.application\\ems.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E4C648-D48C-42DF-B214-6DCC60B2B8B7}|..\\EMS.Application\\EMS.Application.csproj|c:\\users\\ashut\\onedrive\\documents\\360-managementsystem\\backend\\ems.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EMS.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\ashut\\OneDrive\\Documents\\360-ManagementSystem\\backend\\EMS.Infrastructure\\EMS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\EMS.Infrastructure\\EMS.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ashut\\OneDrive\\Documents\\360-ManagementSystem\\backend\\EMS.Infrastructure\\EMS.Infrastructure.csproj",
+              "RelativeToolTip": "..\\EMS.Infrastructure\\EMS.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-29T11:13:37.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ashut\\OneDrive\\Documents\\360-ManagementSystem\\backend\\EMS.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\EMS.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\ashut\\OneDrive\\Documents\\360-ManagementSystem\\backend\\EMS.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\EMS.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T11:13:22.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ashut\\OneDrive\\Documents\\360-ManagementSystem\\backend\\EMS.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\EMS.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\ashut\\OneDrive\\Documents\\360-ManagementSystem\\backend\\EMS.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\EMS.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T11:12:25.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EMS.Application",
+              "DocumentMoniker": "C:\\Users\\ashut\\OneDrive\\Documents\\360-ManagementSystem\\backend\\EMS.Application\\EMS.Application.csproj",
+              "RelativeDocumentMoniker": "..\\EMS.Application\\EMS.Application.csproj",
+              "ToolTip": "C:\\Users\\ashut\\OneDrive\\Documents\\360-ManagementSystem\\backend\\EMS.Application\\EMS.Application.csproj",
+              "RelativeToolTip": "..\\EMS.Application\\EMS.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-29T11:11:05.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ashut\\OneDrive\\Documents\\360-ManagementSystem\\backend\\EMS.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\EMS.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\ashut\\OneDrive\\Documents\\360-ManagementSystem\\backend\\EMS.Application\\Class1.cs",
+              "RelativeToolTip": "..\\EMS.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T11:10:45.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
