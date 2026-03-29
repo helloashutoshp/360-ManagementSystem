@@ -1,1 +1,11 @@
-# VS files 
+# Visual Studio / VS Code
+.vs/
+**/.vs/
+*.user
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
